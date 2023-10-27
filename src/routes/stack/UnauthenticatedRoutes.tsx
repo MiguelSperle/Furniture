@@ -1,8 +1,8 @@
 import { RoutesNavigationType } from '../../interfaces/Unauthenticated.interface'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
-import Access from '../../screens/UnauthenticatedeScreens.tsx/Access'
-import SignIn from '../../screens/UnauthenticatedeScreens.tsx/SignIn'
-import SignUp from '../../screens/UnauthenticatedeScreens.tsx/SignUp'
+import Access from '../../screens/UnauthenticatedScreens.tsx/Access'
+import SignIn from '../../screens/UnauthenticatedScreens.tsx/SignIn'
+import SignUp from '../../screens/UnauthenticatedScreens.tsx/SignUp'
 
 const Stack = createNativeStackNavigator()
 

@@ -1,4 +1,10 @@
-import { SafeAreaView, TextInput, ScrollView, View } from 'react-native'
+import {
+  SafeAreaView,
+  TextInput,
+  ScrollView,
+  View,
+  Platform,
+} from 'react-native'
 import Typography from '../../components/Typography'
 import Header from '../../components/Header'
 import Button from '../../components/Button'
@@ -79,7 +85,7 @@ export default function Home() {
             </Button>
             <View style={{ flex: 1, backgroundColor: '#dbeeff' }}>
               <TextInput
-                editable={false}
+                editable={Platform.OS !== 'ios'}
                 value=""
                 onPressIn={() =>
                   navigation.navigate(RoutesNavigationType.SearchScreen)
