@@ -32,7 +32,7 @@ export default function FavoritesProducts() {
           />
         ) : (
           <Typography
-            text="No favorite product"
+            text="no favorite product"
             size={18}
             color="#000"
             style={{ textAlign: 'center' }}
