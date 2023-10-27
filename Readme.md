@@ -3,14 +3,31 @@
 HERE, I WILL GO TO TYPE
 
 ## Table of Contents
-
-- [Screenshots](#Screenshots)
-- [Links](#Links)
 - [My Process](#my-process)
   - [Built with](#built-with)
-  - [What I Improved](#what-i-improved)
+  - [What I Improved and Learned](#what-i-improved)
+- [Links](#Links)
+- [Screenshots](#Screenshots)
+---------------
+
+### Built with
+
+<ul>
+  <li>React Native</li>
+  <li>TypeScript</li>
+  <li>React Hook Form</li>
+  <li>React Navigation</li>
+  <li>React Query/Axios</li>
+</ul>
 
 ---------------
+
+### Links
+
+- Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-mobile)
+- Linkedin: [Click-me](#Links)
+
+
 
 ### Screenshots
 
@@ -41,7 +58,6 @@ in the pictures below is when the user hasn't logged in yet and when the user ha
   <img width=200 src="https://i.imgur.com/w5veWXE.png"/>
 </div>
 
-### Links
 
-- Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-mobile)
-- Linkedin: [Click-me](#Links)
+
+
