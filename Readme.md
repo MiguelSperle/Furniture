@@ -14,9 +14,9 @@ HERE, I WILL GO TO TYPE
 ### Screenshots
 
 
+<h4>in the pictures below is when the user hasn't logged in yet and when the user has already logged in</h4>
 
 <div style="display: column; width: 100%; justify-content: space-between;">
-<h4 style="font-weight: 200;">in the pictures below is when the user hasn't logged in yet</h4>
   <img width=200 src="https://i.imgur.com/DLu9NDA.png"/>
   <img width=200 src="https://i.imgur.com/l8609wi.png"/>
   <img width=200 src="https://i.imgur.com/Ku9YDfa.png"/>
@@ -24,8 +24,7 @@ HERE, I WILL GO TO TYPE
 
 
 
-<h4 style="font-weight: 200;">in the pictures below is when the user has already logged in</h4>
-<div style="display: column; width: 100%; justify-content: space-between;">
+<div style="margin-top: 20px; display: column; width: 100%; justify-content: space-between;">
   <img width=200 src="https://i.imgur.com/ifUdqs4.png"/>
   <img width=200 src="https://i.imgur.com/pWDZ4EV.png"/>
   <img width=200 src="https://i.imgur.com/B2oBiOW.png"/>
