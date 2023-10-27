@@ -1,20 +1,22 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react'
+import AppRoutes from './src/routes/app.routes'
+import { AuthProviderAuthenticationUser } from './src/contexts/auth/AuthContext'
+import { QueryClientProvider } from '@tanstack/react-query'
+import { queryClient } from './src/lib/QueryClient'
+import { AuthProviderUseProducts } from './src/contexts/provider/useProducts'
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+    <QueryClientProvider client={queryClient}>
+      <AuthProviderAuthenticationUser>
+        <AuthProviderUseProducts>
+          <AppRoutes />
+        </AuthProviderUseProducts>
+      </AuthProviderAuthenticationUser>
+    </QueryClientProvider>
+  )
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+// ver a parte do pagamento // CHECK
+// ver a parte do loading
+// subir no github
