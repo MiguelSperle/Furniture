@@ -43,5 +43,5 @@ in the pictures below is when the user hasn't logged in yet and when the user ha
 
 ### Links
 
-- [Repository](https://github.com/MiguelSperle/Ecommerce-mobile)
-- [Linkedin](#Links)
+- Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-mobile)
+- Linkedin: [Click-me](#Links)
