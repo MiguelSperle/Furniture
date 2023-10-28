@@ -1,12 +1,13 @@
 # Ecommerce | Mobile
 
-HERE, I WILL GO TO TYPE
+Summarizing, in this project, you can register an account and log in with it, you can add many products in your cart and then pay by it, you can also add favorite as a favorite, ( it's an Ecommerce )
 
 ## Table of Contents
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I Improved and Learned](#what-i-improved)
 - [Links](#Links)
+-[How Clip Repository](#How-clip-repository)
 - [Screenshots](#Screenshots)
 ---------------
 
@@ -22,12 +23,47 @@ HERE, I WILL GO TO TYPE
 
 ---------------
 
+
+### What I improved and learned? 
+
+I was able to learn how to use React Query to consuming APIs, I learned about how to use FlatList, I learned to do BottomNavigation, I also learned how to pass product's slug through params, I improved in create components, hooks, contexts.
+
 ### Links
 
 - Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-mobile)
 - Linkedin: [Click-me](#Links)
 
+---------------
 
+### How Clip Repository
+
+
+```⌨ Clone the repository```
+
+```
+git clone https://github.com/MiguelSperle/Ecommerce-mobile.git
+```
+
+```📂 Access at folder```
+
+```
+cd Ecommerce-mobile
+```
+
+```📡 Install dependencies```
+
+```
+npm install or yarn install
+```
+
+```⭐ Start the project```
+
+```
+npm run start / yarn run start
+```
+
+
+---------------
 
 ### Screenshots
 
