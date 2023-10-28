@@ -5,7 +5,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
 ## Table of Contents
 - [My Process](#my-process)
   - [Built with](#built-with)
-  - [What I improved and learned?](#what-i-improved)
+  - [What I improved and learned](#what-i-improved)
 - [Links](#Links)
 - [How Clip Repository](#How-clip-repository)
 - [Screenshots](#Screenshots)
@@ -24,7 +24,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
 ---------------
 
 
-### What I improved and learned? 
+### What I improved and learned
 
 I was able to learn how to use React Query to consuming APIs, I learned about how to use FlatList, I learned to do BottomNavigation, I also learned how to pass product's slug through params, I improved in create components, hooks, contexts.
 
