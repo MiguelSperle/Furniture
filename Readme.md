@@ -11,6 +11,8 @@ Summarizing, in this project, you can register an account and log in with it, yo
 - [Screenshots](#Screenshots)
 ---------------
 
+## My Process below
+
 ### Built with
 
 <ul>
@@ -32,7 +34,7 @@ I was able to learn how to use React Query to consuming APIs, I learned about ho
 
 ### Links
 
-- Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-mobile)
+- Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-Mobile)
 - Linkedin: [Click-me](#Links)
 
 ---------------
@@ -43,7 +45,7 @@ I was able to learn how to use React Query to consuming APIs, I learned about ho
 ```⌨ Clone the repository```
 
 ```
-git clone https://github.com/MiguelSperle/Ecommerce-mobile.git
+git clone https://github.com/MiguelSperle/Ecommerce-Mobile.git
 ```
 
 ```📂 Access at folder```
