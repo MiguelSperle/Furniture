@@ -51,7 +51,7 @@ git clone https://github.com/MiguelSperle/Ecommerce-Mobile.git
 ```📂 Access at folder```
 
 ```
-cd Ecommerce-mobile
+cd Ecommerce-Mobile
 ```
 
 ```📡 Install dependencies```
