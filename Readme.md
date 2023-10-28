@@ -5,9 +5,9 @@ Summarizing, in this project, you can register an account and log in with it, yo
 ## Table of Contents
 - [My Process](#my-process)
   - [Built with](#built-with)
-  - [What I Improved and Learned](#what-i-improved)
+  - [What I improved and learned](#what-i-improved)
 - [Links](#Links)
--[How Clip Repository](#How-clip-repository)
+- [How Clip Repository](#How-clip-repository)
 - [Screenshots](#Screenshots)
 ---------------
 
