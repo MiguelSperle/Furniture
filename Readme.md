@@ -14,7 +14,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
 ### Built with
 
 <ul>
-  <li>React Native</li>
+  <li>React Native/Expo</li>
   <li>TypeScript</li>
   <li>React Hook Form</li>
   <li>React Navigation</li>
