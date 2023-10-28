@@ -14,15 +14,18 @@ export function useLoginUserMutation() {
   const { setSession, setAuthenticadedUserInfo, authenticatedUserInfo } =
     useContext(AuthContextUser)
 
+  async function fetchData() {
+    await SecureStore.setItemAsync('token', data.token)
+    await SecureStore.setItemAsync('refreshTokenId', data.refreshTokenId)
+    await SecureStore.setItemAsync(
+      'authenticatedUser',
+      JSON.stringify(data.authenticatedUser),
+    )
+  }
+
   useEffect(() => {
     if (isSuccess && data) {
-      SecureStore.setItemAsync('token', data.token)
-      SecureStore.setItemAsync('refreshTokenId', data.refreshTokenId)
-      SecureStore.setItemAsync(
-        'authenticatedUser',
-        JSON.stringify(data.authenticatedUser),
-      )
-
+      fetchData()
       setAuthenticadedUserInfo([data.authenticatedUser])
 
       return setSession({
