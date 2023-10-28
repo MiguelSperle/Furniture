@@ -7,7 +7,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
   - [Built with](#built-with)
   - [What I improved and learned](#what-i-improved-and-learned)
 - [Links](#Links)
-- [How to Clone this Repository](#How-clip-repository)
+- [How to Clone this Repository](#how-to-clone-this-repository)
 - [Screenshots](#Screenshots)
 ---------------
 
