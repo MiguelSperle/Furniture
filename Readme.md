@@ -3,7 +3,7 @@
 Summarizing, in this project, you can register an account and log in with it, you can add many products in your cart and then pay by it, you can also add favorite as a favorite, ( it's an furniture ecommerce )
 
 ## Table of Contents
-- [My Process](#my-process)
+- [My Process Below](#my-process-below)
   - [Built with](#built-with)
   - [What I improved and learned](#what-i-improved-and-learned)
 - [Links](#Links)
@@ -11,7 +11,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
 - [Screenshots](#Screenshots)
 ---------------
 
-## My Process below
+## My Process Below
 
 ### Built with
 
