@@ -28,7 +28,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
 
 ### What I improved and learned
 
-I was able to learn how to use React Query to consuming APIs, I learned about how to use FlatList, I learned to do BottomNavigation, I also learned how to pass product slug through params and I learned how to create and use a hook about appState, I improved in create components, hooks and contexts.
+I was able to learn how to use React Query to consuming APIs, I learned about how to use FlatList, I learned to do BottomNavigation, I also learned how to pass product slug through params and I learned how to create and use a hook about appState and it was my first time that I created a middleware with axios intercptor, I improved in create components, hooks and contexts.
 
 ---------------
 
