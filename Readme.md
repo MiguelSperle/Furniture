@@ -21,6 +21,7 @@ Summarizing, in this project, you can register an account and log in with it, yo
   <li>React Hook Form</li>
   <li>React Navigation</li>
   <li>React Query/Axios</li>
+  <li>React Native Reanimated</li>
 </ul>
 
 ---------------
