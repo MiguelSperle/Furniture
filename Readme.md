@@ -36,7 +36,7 @@ I was able to learn how to use React Query to consuming APIs, I learned about ho
 ### Links
 
 - Repository: [Click-me](https://github.com/MiguelSperle/Ecommerce-Mobile)
-- Linkedin: [Click-me](#Links)
+- Linkedin: [Click-me](https://www.linkedin.com/in/miguel-sperle-851916298/)
 
 ---------------
 
