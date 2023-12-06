@@ -1,4 +1,4 @@
-# Ecommerce | Mobile
+# Furniture | Mobile
 
 Summarizing, in this project, you can register an account and log in with it, you can add many products in your cart and then pay by it, you can also add favorite as a favorite, ( it's an furniture ecommerce )
 
@@ -46,13 +46,13 @@ I was able to learn how to use React Query to consuming APIs, I learned about ho
 ```⌨ Clone the repository```
 
 ```
-git clone https://github.com/MiguelSperle/Ecommerce-Mobile.git
+git clone https://github.com/MiguelSperle/Furniture.git
 ```
 
 ```📂 Access at folder```
 
 ```
-cd Ecommerce-Mobile
+cd Furniture
 ```
 
 ```📡 Install dependencies```
