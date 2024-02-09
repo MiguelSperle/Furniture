@@ -65,7 +65,7 @@ npm install or yarn install
 ```⭐ Start the project```
 
 ```
-npm run start / yarn run start
+npx expo start
 ```
 
 
